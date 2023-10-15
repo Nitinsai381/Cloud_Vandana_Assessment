@@ -35,3 +35,5 @@ public class Pangram {
         return true;
     }
 }
+
+// Output : Pangram

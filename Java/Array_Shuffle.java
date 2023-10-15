@@ -26,3 +26,5 @@ public class Array_Shuffle {
         }
     }
 }
+
+// Output : [2, 6, 3, 4, 5, 7, 1]

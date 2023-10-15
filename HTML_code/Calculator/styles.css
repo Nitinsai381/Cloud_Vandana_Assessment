@@ -2,22 +2,22 @@ body{
     background-color: rgb(45, 44, 45);
  }
  #calculator {
-    background-color: rgb(126, 19, 41);
+    background-color: rgb(30, 59, 97);
      width: 300px;
      margin: 8% auto;
      border: 1px solid #ccc;
      padding: 10px;
      border-radius: 5px;
-     box-shadow: 2px 2px 5px #a83939;
+     box-shadow: 2px 2px 5px 5px #4c7eaa;
  }
  #calculator:hover{
-     transform: scale(1.25);
+     transform: scale(1.05);
      box-shadow: 2px 2px 5px 5px #f8e1e1;
  }
  input[type="button"].op {
      background-color: rgba(0, 151, 148, 0.986);
      width: 64px;
-     color: black;
+     color: rgb(6, 6, 6);
      font-size: 1.5rem;
  }
  input[type="button"].clear{
@@ -28,7 +28,7 @@ body{
      height: 60px;
      font-size: 20px;
      margin: 5px;
-     background-color: black;
+     background-color: rgb(10, 10, 10);
      color: aliceblue;
  }
  #display{
