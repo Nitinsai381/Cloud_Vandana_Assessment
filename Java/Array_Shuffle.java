@@ -18,8 +18,6 @@ public class Array_Shuffle {
 
         for (int i = n - 1; i > 0; i--) {
             int j = r.nextInt(i + 1);
-
-            // Swap array[i] and array[j]
             int temp = array[i];
             array[i] = array[j];
             array[j] = temp;
